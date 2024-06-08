@@ -19,9 +19,12 @@ Normally you'd host it on a server, but I can't justify spending money for a jok
 
 ### Code Setup
 - Clone or zip the source code onto your own PC
-- Add an `.env` file in the root folder
-- In `.env`, add `DISCORD_TOKEN="{ADD YOUR TOKEN HERE}"` -> it should end up looking like `DISCORD_TOKEN="SFPO89ad9f89"`
-- In `.env`, add `CLIENT_ID="{ADD YOUR APPLICATION ID}"` 
+- Add an `.env` file in the root folder, and place your token and bot application ID in the variables
+
+``` .env
+DISCORD_TOKEN="ADD TOKEN HERE"
+CLIENT_ID="ADD APPLICATION ID HERE"
+```
 - Run `npm i` to download all of the necessary packages
 - Run `node deploy-commands.js` to initialize the slash commands
 - Run `nodemon` to run your bot
