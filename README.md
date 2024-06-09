@@ -1,7 +1,7 @@
 # Sigmund Freud Discord Bot
 This is a Discord bot that you can use to generate a Sigmund Freud quote anytime, anywhere.  
 
-## Features
+## Commands
 `/quote` - make the bot say a randomized Freud quote from 60 options.
 
 `/mother` - make the bot say "I LOVE MY MOM!".
