@@ -6,7 +6,7 @@ This is a Discord bot that you can use to generate a Sigmund Freud quote anytime
 
 `/mother` - make the bot say "I LOVE MY MOM!".
 
-## Run it locally
+## Usage
 Normally you'd host it on a server, but I can't justify spending money for a joke, so here's how to do it locally. Deploy it yourself if you want!
 
 ### Bot Setup
